@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 Approximation.py "$1"
+python3 Singleton.py "$1"
