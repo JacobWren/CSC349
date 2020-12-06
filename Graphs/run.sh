@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python3 Approximation.py "$1"
+python3 Graphs.py "$1"
