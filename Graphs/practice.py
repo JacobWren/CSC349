@@ -1,0 +1,13 @@
+from collections import defaultdict
+G = defaultdict(list)
+G[0].append(None)
+G[1].append(None)
+G[2].append(0)
+G[3].append(0, 1])
+G[4].append([2])
+G[5].append([3])
+G[6].append([3])
+G[7].append([5,6])
+G[8].append([4])
+G[9].append([8, 7])
+print(G)
